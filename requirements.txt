@@ -1,0 +1,9 @@
+# Python dependencies for Kidney Stone Detection and Prevention
+streamlit
+tensorflow
+opencv-python
+numpy
+pandas
+scikit-learn
+fpdf2
+Pillow
